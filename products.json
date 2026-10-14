@@ -1,0 +1,458 @@
+{
+ "ok": true,
+ "products": [
+  {
+   "sku": "TR-01",
+   "name": "Blue Butterfly-Pea Table Runner",
+   "collection": "Flowers",
+   "category": "Table runner",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; Blue Butterfly-Pea Flower; lavender piped edge",
+   "size": "13\" x 68\"",
+   "price": 1500,
+   "photos": [
+    "TR-01.jpg",
+    "TR-01-2.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "TR-02",
+   "name": "Christmas Poinsettia Table Runner",
+   "collection": "Christmas",
+   "category": "Table runner",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; red poinsettias with green leaves; red piped edge",
+   "size": "13\" x 68\"",
+   "price": 1500,
+   "photos": [
+    "TR-02.jpg",
+    "TR-02-2.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "TR-03",
+   "name": "Christmas Poinsettia, holly & berries Table Runner",
+   "collection": "Christmas",
+   "category": "Table runner",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; central red poinsettia, holly, red berries, mistletoe; green piped edge",
+   "size": "13\" x 68\"",
+   "price": 1500,
+   "photos": [
+    "TR-03.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-01",
+   "name": "Poinsettia on black",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Hand-painted",
+   "description": "Black fabric; red/orange poinsettia with gold outline, green leaves, mistletoe & berries",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-01.jpg"
+   ],
+   "available": 3
+  },
+  {
+   "sku": "CC-02",
+   "name": "Christmas Poinsettia",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; large red poinsettia with gold veins, green holly leaves",
+   "size": "16\" x 16\"",
+   "price": 2500,
+   "photos": [
+    "CC-02.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-03",
+   "name": "Poinsettia & berries",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; red poinsettia lower right, holly, berries & mistletoe",
+   "size": "16\" x 16\"",
+   "price": 2500,
+   "photos": [
+    "CC-03.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-04",
+   "name": "Poinsettia & berries (right)",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; red poinsettia lower left, holly, berries & mistletoe upper right",
+   "size": "16\" x 16\"",
+   "price": 2500,
+   "photos": [
+    "CC-04.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-05",
+   "name": "Orange Hibiscus",
+   "collection": "Flowers",
+   "category": "Cushion cover",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; large orange hibiscus with green leaves",
+   "size": "16\" x 16\"",
+   "price": 2000,
+   "photos": [
+    "CC-05.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-06",
+   "name": "Hibiscus Bouquet",
+   "collection": "Flowers",
+   "category": "Cushion cover",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; yellow, pink and purple hibiscus with green leaves",
+   "size": "16\" x 16\"",
+   "price": 2000,
+   "photos": [
+    "CC-06.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-07",
+   "name": "Blue Butterfly-Pea",
+   "collection": "Flowers",
+   "category": "Cushion cover",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; large Blue Butterfly-Pea with green leaves",
+   "size": "16\" x 16\"",
+   "price": 2000,
+   "photos": [
+    "CC-07.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-08",
+   "name": "Binara",
+   "collection": "Flowers",
+   "category": "Cushion cover",
+   "technique": "Hand-painted",
+   "description": "Cream fabric; single Binara flower with bud on brown stem",
+   "size": "16\" x 16\"",
+   "price": 2000,
+   "photos": [
+    "CC-08.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-09",
+   "name": "Hibiscus",
+   "collection": "Flowers",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Lavender border, mitred corners; multicolour hibiscus panel on yellow",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-09.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-10",
+   "name": "Blue Florals",
+   "collection": "Flowers",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Sky-blue border, mitred corners; navy/light-blue flowers with green sprigs on cream",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-10.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-11",
+   "name": "Pink Lily",
+   "collection": "Flowers",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Magenta border, mitred corners; pink Lily with green stems on white panel",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-11.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-12",
+   "name": "Orange lily",
+   "collection": "Flowers",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Orange border, mitred corners; orange lily on white panel",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-12.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-13",
+   "name": "Orange Floral",
+   "collection": "Flowers",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Orange border, mitred corners; rows of pink/red/orange daisies with green vines",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-13.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-14",
+   "name": "Christmas Medallion (green)",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Green border, mitred corners; red & green Christmas medallion with corner motifs on white panel",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-14.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-15",
+   "name": "Christmas Medallion (red)",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Red border, mitred corners; red & green Christmas medallion with corner motifs on white panel",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-15.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-16",
+   "name": "Christmas Snow Flake",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Sky-blue border, mitred corners; blue interlaced knot motif with border on cream panel",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-16.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-17",
+   "name": "Snowman",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Red border, mitred corners; snowman in polka-dot scarf on cream panel (Christmas)",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-17.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-18",
+   "name": "Santa's sleigh",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Royal-blue border, mitred corners; Santa with sleigh & reindeer, blue snowflake borders (Christmas)",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-18.jpg"
+   ],
+   "available": 3
+  },
+  {
+   "sku": "CC-19",
+   "name": "Santa",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Red border, mitred corners; Santa carrying a Christmas tree, holly corners (Christmas)",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-19.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-20",
+   "name": "Holly Wreath",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Green border, mitred corners; holly leaves & red berries around gold star (Christmas)",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-20.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-21",
+   "name": "Holly & Berries",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Green border, mitred corners; all-over holly and red berries with gold star centre (Christmas)",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-21.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-22",
+   "name": "Christmas tree",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Green border, mitred corners; stylised green tree with gold star, red stitched frame (Christmas)",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-22.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-23",
+   "name": "Red bauble",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Green border, mitred corners; red Christmas bauble with white snowflakes (Christmas)",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-23.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "CC-24",
+   "name": "Snowflake",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Royal-blue border, mitred corners; blue snowflake on cream panel (Christmas)",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-24.jpg"
+   ],
+   "available": 2
+  },
+  {
+   "sku": "CC-25",
+   "name": "Red Snow Flake",
+   "collection": "Christmas",
+   "category": "Cushion cover",
+   "technique": "Cross-stitch",
+   "description": "Red border, mitred corners; four red snowflakes on white panel (Christmas)",
+   "size": "16\" x 16\"",
+   "price": 1500,
+   "photos": [
+    "CC-25.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "WR-01",
+   "name": "Bird of paradise",
+   "collection": "Flowers",
+   "category": "Wraparound",
+   "technique": "Hand-painted",
+   "description": "Peach fabric; orange/blue bird-of-paradise flowers with green leaves",
+   "size": "Large",
+   "price": 2500,
+   "photos": [
+    "WR-01.jpg",
+    "WR-01-2.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "WR-02",
+   "name": "Gloriosa Lily",
+   "collection": "Flowers",
+   "category": "Wraparound",
+   "technique": "Hand-painted",
+   "description": "Peach/beige fabric; red & yellow gloriosa lilies with green stems; tie waist",
+   "size": "Medium",
+   "price": 2500,
+   "photos": [
+    "WR-02.jpg",
+    "WR-02-2.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "WR-03",
+   "name": "Blue Butterfly-Pea",
+   "collection": "Flowers",
+   "category": "Wraparound",
+   "technique": "Hand-painted",
+   "description": "White fabric; large Blue Butterfly-Pea; blue wash",
+   "size": "Flared Large",
+   "price": 2500,
+   "photos": [
+    "WR-03.jpg"
+   ],
+   "available": 1
+  },
+  {
+   "sku": "WR-04",
+   "name": "Araliya",
+   "collection": "Flowers",
+   "category": "Wraparound",
+   "technique": "Hand-painted",
+   "description": "White fabric; Araliya; yellow wash",
+   "size": "Flared Small",
+   "price": 2500,
+   "photos": [
+    "WR-04.jpg",
+    "WR-04-2.jpg"
+   ],
+   "available": 1
+  }
+ ]
+}
